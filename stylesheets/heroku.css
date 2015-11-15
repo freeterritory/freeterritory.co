@@ -14,7 +14,7 @@
 .btn-heroku:hover {
   color: #fff;
   background-color: #4922B1;
-  border-color: #ac2925;
+  border-color: #B7C4FC;
 }
 
 .btn-heroku.active,
@@ -22,7 +22,7 @@
 .open > .dropdown-toggle.btn-heroku {
   color: #fff;
   background-color: #4922B1;
-  border-color: #ac2925;
+  border-color: #B7C4FC;
 }
 
 .btn-heroku.active.focus,
@@ -35,7 +35,7 @@
 .open > .dropdown-toggle.btn-heroku:focus,
 .open > .dropdown-toggle.btn-heroku:hover {
   color: #fff;
-  background-color: #ac2925;
+  background-color: #4922B1;
   border-color: #B7C4FC;
 }
 
